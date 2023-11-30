@@ -1,7 +1,8 @@
 ## hello :)
 
 <https://ari.lt/> ( previously <https://ari-web.xyz/>, expires in 2025 ) is
-an open source personal website created by [Ari Archer](https://ari.lt/gh)
+an open source personal website created by a teenage open source developer from Lithuania
+named [Ari Archer](https://ari.lt/gh) ( call me Arija if u wanna be ✨ fancy ✨ ) 
 and the main goal of it is provide content and a platform for creating an
 fetching content on the internet
 
@@ -20,4 +21,4 @@ ari.lt will be refered to ari-web as that's what it was before ari.lt and even b
 
 anyway, hope you enjoy this journey with me :)
 
-- ari
+\- ari
