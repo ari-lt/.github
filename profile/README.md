@@ -22,3 +22,5 @@ ari.lt will be refered to ari-web as that's what it was before ari.lt and even b
 anyway, hope you enjoy this journey with me :)
 
 \- ari
+
+this organization is a part of the [![ari-web badge](https://ari.lt/badge.png)](https://ari.lt/) project
