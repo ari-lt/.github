@@ -16,6 +16,7 @@ currently ari-web ( ari.lt ) has the following subdomains :
 - https://user.ari.lt/ ( source : https://user.ari.lt/git )
 - https://etc.ari.lt/ ( source : https://etc.ari.lt/git )
 - https://us.ari.lt/ ( source : https://us.ari.lt/git )
+- https://matrix.ari.lt/ ( source : https://ari.lt/lh/matrix.ari.lt )
 
 ari.lt will be refered to ari-web as that's what it was before ari.lt and even before ari-web.xyz
 
