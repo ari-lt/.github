@@ -16,8 +16,16 @@ currently ari-web ( ari.lt ) has the following subdomains :
 - https://user.ari.lt/ ( source : https://user.ari.lt/git )
 - https://etc.ari.lt/ ( source : https://etc.ari.lt/git )
 - https://us.ari.lt/ ( source : https://us.ari.lt/git )
-- https://matrix.ari.lt/ ( source : https://ari.lt/lh/matrix.ari.lt )
+- https://matrix.ari.lt/ ( source : https://matrix.ari.lt/git )
 - https://vim-or-emacs.ari.lt/ ( source : https://vim-or-emacs.ari.lt/git )
+
+ari-web also helps to host :
+
+- https://matrix.fsky.io/ ( mediawiki instance focused on [the matrix protocol](https://spec.matrix.org/latest/) ) -- CC0 license, admin : [User:Admin](https://matrix.fsky.io/index.php?title=User:Admin)
+
+want help hosting your own stuff ? email <ari.web.xyz@gmail.com> with an application, although keep in mind
+i will only host on fair-share resources with an open source ( preferrably GNU ) license,, report any abuse
+under the same email, or contact [@ari:ari.lt](https://matrix.to/#/@ari:ari.lt) on matrix
 
 ari.lt will be refered to ari-web as that's what it was before ari.lt and even before ari-web.xyz
 
