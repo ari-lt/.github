@@ -22,8 +22,8 @@ currently ari-web ( ari.lt ) has the following subdomains :
 
 ari-web also helps to host :
 
-- https://schildi.ari.lt/ ( schildichat instance by [@sininenkissa:ari.lt](https://matrix.to/#/@sininenkissa:ari.lt)
-- https://cinny.ari.lt/ ( cinny instance by [@sininenkissa:ari.lt](https://matrix.to/#/@sininenkissa:ari.lt)
+- https://schildi.ari.lt/ ( schildichat instance by [@sininenkissa:ari.lt](https://matrix.to/#/@sininenkissa:ari.lt) )
+- https://cinny.ari.lt/ ( cinny instance by [@sininenkissa:ari.lt](https://matrix.to/#/@sininenkissa:ari.lt) )
 
 want help hosting your own stuff ? email <ari.web.xyz@gmail.com> with an application, although keep in mind
 i will only host on fair-share resources with an open source ( preferrably GNU ) license,, report any abuse
