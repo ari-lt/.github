@@ -22,7 +22,6 @@ currently ari-web ( ari.lt ) has the following subdomains :
 
 ari-web also helps to host :
 
-- https://matrix.imwiki.org/ ( mediawiki instance focused on [the matrix protocol](https://spec.matrix.org/latest/) ) -- CC0 license, admin : [User:Admin](https://matrix.imwiki.org/wiki/User:Admin)
 - https://schildi.ari.lt/ ( schildichat instance by [@sininenkissa:ari.lt](https://matrix.to/#/@sininenkissa:ari.lt)
 - https://cinny.ari.lt/ ( cinny instance by [@sininenkissa:ari.lt](https://matrix.to/#/@sininenkissa:ari.lt)
 
