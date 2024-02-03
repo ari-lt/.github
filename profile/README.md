@@ -25,7 +25,6 @@ ari-web also helps to host :
 
 - https://schildi.ari.lt/ ( schildichat instance by [@sininenkissa](https://github.com/sininenkissa) ) ( source : https://ari.lt/lh/schildi.ari.lt )
 - https://cinny.ari.lt/ ( cinny instance by [@sininenkissa](https://github.com/sininenkissa) ) ( source : https://ari.lt/lh/cinny.ari.lt )
-- https://iv.ari.lt/ ( invidious instance by [@sininenkissa](https://github.com/sininenkissa) ) ( source : https://ari.lt/lh/iv.ari.lt )
 - https://pb.ari.lt/ ( privatebin instance by [@sininenkissa](https://github.com/sininenkissa) ) ( source : https://ari.lt/lh/pb.ari.lt )
 
 want help hosting your own stuff ? email <ari.web.xyz@gmail.com> with an application, although keep in mind
