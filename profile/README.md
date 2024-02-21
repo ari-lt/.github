@@ -1,6 +1,6 @@
 ## hello :)
 
-<https://ari.lt/> <img src="https://us.ari.lt/counter/@ari/kpnuBU0qISQlfR7cSNwwg9oW8654-RguVrXh9JOBGo3EP1-bm7aF9ROuQO6Jqesk.svg?ref=github&fill=%23cd7998" alt="visitor count" /> ( previously <https://ari-web.xyz/>, expires in 2025 ) is
+<https://ari.lt/> <img src="https://us.ari.lt/counter/@ari/kpnuBU0qISQlfR7cSNwwg9oW8654-RguVrXh9JOBGo3EP1-bm7aF9ROuQO6Jqesk.svg?ref=github&fill=%23cd7998" alt="visitor count" /> is
 an open source personal website created by a teenage open source developer from Lithuania
 named [Ari Archer](https://ari.lt/gh) ( call me Arija if u wanna be ✨ fancy ✨ ) 
 and the main goal of it is provide content and a platform for creating an
