@@ -19,15 +19,15 @@ currently ari-web ( ari.lt ) has the following subdomains :
 - https://matrix.ari.lt/ ( source : https://matrix.ari.lt/git )
 - https://vim-or-emacs.ari.lt/ ( source : https://vim-or-emacs.ari.lt/git )
 - https://git.ari.lt/ ( source : https://ari.lt/lh/git.ari.lt ( cant rlly add /git :/ ) )
-- https://searx.ari.lt/ ( source : https://ari.lt/lh/searx.ari.lt ( cant rlly add /git :/ ) )
-- https://pad.ari.lt/ ( source : https://ari.lt/lh/pad.ari.lt ( cant rlly add /git :/ ) )
+- https://searx.ari.lt/ ( source : https://searx.ari.lt/git )
+- https://pad.ari.lt/ ( source : https://pad.ari.lt/git )
 
 ari-web also helps to host :
 
-- https://schildi.ari.lt/ ( schildichat instance by [@sininenkissa](https://github.com/sininenkissa) ) ( source : https://ari.lt/lh/schildi.ari.lt )
-- https://cinny.ari.lt/ ( cinny instance by [@sininenkissa](https://github.com/sininenkissa) ) ( source : https://ari.lt/lh/cinny.ari.lt )
-- https://pb.ari.lt/ ( privatebin instance by [@sininenkissa](https://github.com/sininenkissa) ) ( source : https://ari.lt/lh/pb.ari.lt )
-- https://xmpp.ari.lt/ ( prospody instance by [@sininenkissa](https://github.com/sininenkissa) ) ( source : https://ari.lt/lh/xmpp.ari.lt )
+- https://schildi.ari.lt/ ( schildichat instance by [@sininenkissa](https://github.com/sininenkissa) ) ( source : https://schildi.ari.lt/git )
+- https://cinny.ari.lt/ ( cinny instance by [@sininenkissa](https://github.com/sininenkissa) ) ( source : https://cinny.ari.lt/git )
+- https://pb.ari.lt/ ( privatebin instance by [@sininenkissa](https://github.com/sininenkissa) ) ( source : https://pb.ari.lt/git )
+- https://xmpp.ari.lt/ ( prospody instance by [@sininenkissa](https://github.com/sininenkissa) ) ( source : https://xmpp.ari.lt/git )
 - https://cydia.ari.lt/ ( just a cydia repo by [@sininenkissa](https://github.com/sininenkissa) ) ( it is literally a file host lol, the source code *is* the service )
 
 want help hosting your own stuff ? email <ari.web.xyz@gmail.com> with an application, although keep in mind
