@@ -28,7 +28,6 @@ ari-web also helps to host :
 - https://cinny.ari.lt/ ( cinny instance by [@sininenkissa](https://github.com/sininenkissa) ) ( source : https://cinny.ari.lt/git )
 - https://pb.ari.lt/ ( privatebin instance by [@sininenkissa](https://github.com/sininenkissa) ) ( source : https://pb.ari.lt/git )
 - https://xmpp.ari.lt/ ( prospody instance by [@sininenkissa](https://github.com/sininenkissa) ) ( source : https://xmpp.ari.lt/git )
-- https://cydia.ari.lt/ ( just a cydia repo by [@sininenkissa](https://github.com/sininenkissa) ) ( it is literally a file host lol, the source code *is* the service )
 
 want help hosting your own stuff ? email <ari@ari.lt> with an application, although keep in mind
 we will only host on fair-share resources with an open source ( preferrably GNU ) license,, report any abuse
