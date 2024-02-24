@@ -22,6 +22,7 @@ currently ari-web ( ari.lt ) has the following subdomains :
 - https://searx.ari.lt/ ( source : https://searx.ari.lt/git )
 - https://pad.ari.lt/ ( source : https://pad.ari.lt/git )
 - https://mail.ari.lt/ ( source : https://mail.ari.lt/git )
+- https://rc.ari.lt/ ( source : https://rc.ari.lt/git )
 
 ari-web also helps to host :
 
