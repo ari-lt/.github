@@ -16,7 +16,7 @@ currently ari-web ( ari.lt ) has the following subdomains :
 - https://us.ari.lt/ ( source : https://us.ari.lt/git )
 - https://matrix.ari.lt/ ( source : https://matrix.ari.lt/git )
 - https://vim-or-emacs.ari.lt/ ( source : https://vim-or-emacs.ari.lt/git )
-- https://git.ari.lt/ ( source : https://ari.lt/lh/git.ari.lt ( cant rlly add /git :/ ) )
+- https://git.ari.lt/ ( source : https://git.ari.lt/git )
 - https://searx.ari.lt/ ( source : https://searx.ari.lt/git )
 - https://pad.ari.lt/ ( source : https://pad.ari.lt/git )
 - https://mail.ari.lt/ ( source : https://mail.ari.lt/git )
