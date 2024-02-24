@@ -1,10 +1,8 @@
 ## hello :)
 
 <https://ari.lt/> <img src="https://us.ari.lt/counter/@ari/kpnuBU0qISQlfR7cSNwwg9oW8654-RguVrXh9JOBGo3EP1-bm7aF9ROuQO6Jqesk.svg?ref=github&fill=%23cd7998" alt="visitor count" /> is
-an open source personal website created by a teenage open source developer from Lithuania
-named [Ari Archer](https://ari.lt/gh) ( call me Arija if u wanna be ✨ fancy ✨ ) 
-and the main goal of it is provide content and a platform for creating an
-fetching content on the internet
+an open source personal website originally created by Ari Archer, a teenage open source developer from Lithuania. Now it
+helps to host some services to provide for the public.
 
 currently ari-web ( ari.lt ) has the following subdomains :
 
@@ -32,14 +30,15 @@ ari-web also helps to host :
 - https://xmpp.ari.lt/ ( prospody instance by [@sininenkissa](https://github.com/sininenkissa) ) ( source : https://xmpp.ari.lt/git )
 - https://cydia.ari.lt/ ( just a cydia repo by [@sininenkissa](https://github.com/sininenkissa) ) ( it is literally a file host lol, the source code *is* the service )
 
-want help hosting your own stuff ? email <ari.web.xyz@gmail.com> with an application, although keep in mind
-i will only host on fair-share resources with an open source ( preferrably GNU ) license,, report any abuse
+want help hosting your own stuff ? email <ari@ari.lt> with an application, although keep in mind
+we will only host on fair-share resources with an open source ( preferrably GNU ) license,, report any abuse
 under the same email, or contact [@ari:ari.lt](https://matrix.to/#/@ari:ari.lt) on matrix
 
 ari.lt will be refered to ari-web as that's what it was before ari.lt and even before ari-web.xyz
 
-anyway, hope you enjoy this journey with me :)
+anyway, hope you enjoy this journey with us :)
 
-\- ari
+this organization is a part of the [![ari-web badge](https://ari.lt/badge.png)](https://ari.lt/) project:
 
-this organization is a part of the [![ari-web badge](https://ari.lt/badge.png)](https://ari.lt/) project
+- Ari Archer ( <ari@ari.lt> ) - Owner
+- Sininenkissa ( <sininenkissa@ari.lt> ) - Member, contributor, and service administrator
