@@ -39,4 +39,4 @@ anyway, hope you enjoy this journey with us :)
 this organization is a part of the [![ari-web badge](https://ari.lt/badge.png)](https://ari.lt/) project:
 
 - Ari Archer ( [ari@ari.lt](mailto:ari@ari.lt) ) - Owner
-- Sininenkissa ( [sininenkissa@ari.lt](mailto:sininenkissa@ari.lt) - Member, contributor, and service administrator
+- Sininenkissa ( [sininenkissa@ari.lt](mailto:sininenkissa@ari.lt) ) - Member, contributor, and service administrator
