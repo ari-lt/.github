@@ -6,6 +6,7 @@ from Lithuania. Now it helps to host some services to provide for the public.
 currently ari-web ( ari.lt ) has the following subdomains :
 
 - https://www.ari.lt/ ( website ) ( source : https://ari.lt/git )
+- https://s.ari.lt/ ( ari.lt VPS ) ( source : none, text file )
 - https://files.ari.lt/ ( source : https://files.ari.lt/git )
 - https://blog.ari.lt/ ( source : https://blog.ari.lt/git )
 - https://legacy.blog.ari.lt/ ( source : https://legacy.blog.ari.lt/git )
