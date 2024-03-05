@@ -24,9 +24,9 @@ currently ari-web ( ari.lt ) has the following subdomains :
 
 ari-web also helps to host :
 
-- https://schildi.ari.lt/ ( schildichat instance by [@sininenkissa](https://github.com/sininenkissa) ) ( source : https://schildi.ari.lt/git )
-- https://cinny.ari.lt/ ( cinny instance by [@sininenkissa](https://github.com/sininenkissa) ) ( source : https://cinny.ari.lt/git )
-- https://pb.ari.lt/ ( privatebin instance by [@sininenkissa](https://github.com/sininenkissa) ) ( source : https://pb.ari.lt/git )
+- https://schildi.ari.lt/ ( schildichat instance by [@sininenkissa](https://github.com/sininenkissa), maintained by TruncatedDinoSour ) ( source : https://schildi.ari.lt/git )
+- https://cinny.ari.lt/ ( cinny instance by [@sininenkissa](https://github.com/sininenkissa), maintained by TruncatedDinoSour ) ( source : https://cinny.ari.lt/git )
+- https://pb.ari.lt/ ( privatebin instance by [@sininenkissa](https://github.com/sininenkissa), maintained by TruncatedDinoSour ) ( source : https://pb.ari.lt/git )
 - https://db.cubiq.dev/ ( pocketbase data store by [@TheCubiq](https://github.com/TheCubiq) ) ( source : https://github.com/pocketbase/pocketbase )
 
 want help hosting your own stuff ? email [ari@ari.lt](mailto:ari@ari.lt) with an application, although keep in mind
@@ -40,7 +40,6 @@ anyway, hope you enjoy this journey with us :)
 this organization is a part of the [![ari-web badge](https://ari.lt/badge.png)](https://ari.lt/) project:
 
 - Ari Archer ( [ari@ari.lt](mailto:ari@ari.lt) ) - Owner
-- Sininenkissa ( [sininenkissa@ari.lt](mailto:sininenkissa@ari.lt) ) - Member, contributor, and service administrator
 - Cubiq ( [cubiq@ari.lt](mailto:cubiq@ari.lt) ) - Member, hoster
 
 Reach us at [org@ari.lt](mailto:org@ari.lt) !
