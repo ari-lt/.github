@@ -28,7 +28,6 @@ ari-web also helps to host :
 - https://cinny.ari.lt/ ( cinny instance by [@sininenkissa](https://github.com/sininenkissa), maintained by TruncatedDinoSour ) ( source : https://cinny.ari.lt/git )
 - https://pb.ari.lt/ ( privatebin instance by [@sininenkissa](https://github.com/sininenkissa), maintained by TruncatedDinoSour ) ( source : https://pb.ari.lt/git )
 - https://db.cubiq.dev/ ( pocketbase data store by [@TheCubiq](https://github.com/TheCubiq) ) ( source : https://github.com/pocketbase/pocketbase )
-- https://xmpp.ari.lt/ ( XMPP domain lended to [@Hydrogen8](https://github.com/Hydrogen8), <xmpp:hydrogen@h2.gay>, <https://h2.gay/> )
 
 want help hosting your own stuff ? email [ari@ari.lt](mailto:ari@ari.lt) with an application, although keep in mind
 we will only host on fair-share resources with an open source ( preferrably GNU ) license, report any abuse
