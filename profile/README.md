@@ -21,6 +21,7 @@ currently ari-web ( ari.lt ) has the following subdomains :
 - https://pad.ari.lt/ ( cryptpad instance ) ( source : https://pad.ari.lt/git )
 - https://mail.ari.lt/ ( mailcow instance ) ( source : https://mail.ari.lt/git )
 - https://rc.ari.lt/ ( roundcube instance ) ( source : https://rc.ari.lt/git )
+- https://quotes.ari.lt/ ( https://ari.lt/gh/imag instance )
 
 ari-web also helps to host :
 
