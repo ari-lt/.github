@@ -23,6 +23,7 @@ currently ari-web ( ari.lt ) has the following subdomains :
 - https://rc.ari.lt/ ( roundcube instance ) ( source : https://rc.ari.lt/git )
 - https://quotes.ari.lt/ ( https://ari.lt/gh/imag instance )
 - https://ak.ari.lt/ ( [akkoma](https://akkoma.dev/) instance )
+- https://vi.ari.lt/ ( [vikunja](https://vikunja.io/) instance ) ( source : https://vi.ari.lt/git )
 
 ari-web also helps to host :
 
