@@ -1,5 +1,7 @@
 ## hello visitor number <img src="https://us.ari.lt/counter/@ari/kpnuBU0qISQlfR7cSNwwg9oW8654-RguVrXh9JOBGo3EP1-bm7aF9ROuQO6Jqesk.svg?ref=github&fill=%23cd7998" alt="visitor count" /> :)
 
+**status** migration period
+
 <https://ari.lt/> is an open source personal website originally created by Ari Archer, a teenage open source developer
 from Lithuania. Now it helps to host some services to provide for the public.
 
