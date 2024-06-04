@@ -13,7 +13,6 @@ currently ari-web ( ari.lt ) has the following subdomains :
 - https://school.ari.lt/ (source: proprietary ( i don't want people snooping on my homework lol ) )
 - https://user.ari.lt/ ( source : https://user.ari.lt/git )
 - https://etc.ari.lt/ ( source : https://etc.ari.lt/git )
-- https://us.ari.lt/ ( pubnix ) ( source : https://us.ari.lt/git )
 - https://matrix.ari.lt/ ( dendrite (matrix) instance ) ( source : https://matrix.ari.lt/git )
 - https://vim-or-emacs.ari.lt/ ( source : https://vim-or-emacs.ari.lt/git )
 - https://git.ari.lt/ ( forgejo instance ) ( source : https://git.ari.lt/git )
