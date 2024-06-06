@@ -1,4 +1,4 @@
-## hello visitor number <img src="https://us.ari.lt/counter/@ari/kpnuBU0qISQlfR7cSNwwg9oW8654-RguVrXh9JOBGo3EP1-bm7aF9ROuQO6Jqesk.svg?ref=github&fill=%23cd7998" alt="visitor count" /> :)
+## hello visitor number <img src="https://ari.lt/counter.svg?ref=github&fill=%23cd7998" alt="visitor count" /> :)
 
 **status** migration period
 
