@@ -35,6 +35,7 @@ ari-web also helps to host :
 - https://db.cubiq.dev/ ( pocketbase data store by [@TheCubiq](https://github.com/TheCubiq) ) ( source : https://github.com/pocketbase/pocketbase )
 - https://t1nklas.lt/ email server
 - https://git.kappach.at/ ( forgejo instance of kappa chat )
+- https://status.fsky.io/ ( FSKY status page )
 
 want help hosting your own stuff ? email [ari@ari.lt](mailto:ari@ari.lt) with an application, although keep in mind
 we will only host on fair-share resources with an open source ( preferrably GNU ) license, report any abuse
