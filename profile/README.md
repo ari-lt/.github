@@ -24,6 +24,7 @@ currently ari-web ( ari.lt ) has the following subdomains :
 - https://ak.ari.lt/ ( [akkoma](https://akkoma.dev/) instance )
 - https://vi.ari.lt/ ( [vikunja](https://vikunja.io/) instance ) ( source : https://vi.ari.lt/git )
 - https://trie.ari.lt/ ( source : https://trie.ari.lt/git )
+- https://ari.lt/ XMPP / jabber ( source : https://ari.lt/lh/xmpp )
 
 ari-web also helps to host :
 
