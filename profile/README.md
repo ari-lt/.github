@@ -1,4 +1,4 @@
-# We have migrated to a self-histed ari-web Forgejo instance at <https://git.ari.lt/ari.lt>
+# We have migrated to a self-hosted ari-web Forgejo instance at <https://git.ari.lt/ari.lt>
 
 ## hello visitor number <img src="https://ari.lt/counter.svg?ref=github&fill=%23cd7998&reload=1" alt="visitor count" /> :)
 
